@@ -23,7 +23,7 @@ const DerivedGuardianScoresSchema = new mongoose.Schema(
 
 const GuardianIntakeSchema = new mongoose.Schema(
   {
-    patientId: { type: mongoose.Schema.Types.ObjectId, ref: 'Patient', required: true, index: true },
+    patientId: { type: mongoose.Schema.Types.ObjectId, ref: 'Patient', required: true },
     answers: { type: [GuardianAnswerSchema], default: [] },
     derivedScores: { type: DerivedGuardianScoresSchema, default: () => ({}) },
     completedAt: { type: Date, default: Date.now },

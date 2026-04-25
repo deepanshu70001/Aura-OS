@@ -1,0 +1,43 @@
+# Web Framework & Server (Fast & Async)
+fastapi==0.110.0
+uvicorn==0.27.1
+pydantic==2.8.2
+
+# Environment Variables
+python-dotenv==1.0.1
+
+# AI & LLM Orchestration (Switched to Groq for ultra-low latency)
+langchain
+langchain-groq
+
+# Voice Telemetry & Audio Processing
+librosa==0.10.1          # For deep audio/vocal stress analysis
+soundfile==0.12.1        # Required by librosa to read audio files
+numpy==2.1.3             # Python 3.13-compatible wheel; avoids local GCC build failures
+
+# PDF Generation
+reportlab==4.1.0         # Fast and robust PDF generation from text/images
+
+# Parental Triage / Notifications
+twilio==9.0.2            # For sending WhatsApp alerts
+
+# Async Utilities & File Handling
+python-multipart==0.0.9  # Required by FastAPI to accept file uploads from frontend
+httpx==0.27.2            # For posting telemetry from Python service to Node clinical APIs
+motor==3.4.0             # Async MongoDB driver (used by triage persistence layer)
+pymongo==4.8.0           # Pinned for Motor 3.4 compatibility (_QUERY_OPTIONS import issue on newer releases)
+
+# RAG Pipeline (Clinical Knowledge Base)
+chromadb==0.4.24; platform_system != "Windows"  # Local vector store (Windows needs MSVC build tools)
+sentence-transformers==2.5.1    # all-MiniLM-L6-v2 embeddings (runs locally)
+langchain-community             # Community vector store integrations
+langchain-text-splitters        # RecursiveCharacterTextSplitter
+
+# Voice Emotion ML Ensemble
+scikit-learn==1.7.0             # Also defined in requirements-ml.txt
+praat-parselmouth==0.4.3        # For jitter/shimmer/HNR features
+
+# Deep Learning (RTX 3050 Support)
+torch==2.11.0
+transformers>=4.44.0            # Compatible with torch 2.11
+accelerate>=0.34.0              # Compatible with torch 2.11

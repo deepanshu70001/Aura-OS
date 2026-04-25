@@ -1,0 +1,232 @@
+SOURCE: Synthesized from ISNPR consensus guidelines, Harvard Nutritional Psychiatry, and Dr. Ratey's exercise protocols
+DOMAIN: Condition-Specific Recovery Protocols — Structured Intervention Mappings
+
+---
+
+PROTOCOL: ANXIETY — Complete Recovery Protocol
+
+CONDITION: Generalized Anxiety Disorder, Panic Disorder, Social Anxiety
+PRIMARY NEUROCHEMICAL TARGETS: Increase GABA, lower cortisol, support serotonin production
+AROUSAL LEVEL: Typically elevated (score 7-10 on arousal scale)
+
+DIET PROTOCOL FOR ANXIETY:
+Priority 1 — Magnesium-rich foods (calms nervous system, regulates HPA axis):
+  • Dark leafy greens: spinach, kale, Swiss chard (2+ servings/day)
+  • Nuts and seeds: almonds, cashews, pumpkin seeds (handful daily)
+  • Dark chocolate 70%+ cacao (1-2 squares daily for flavonoids + magnesium)
+  • Avocados (healthy fats + magnesium combined)
+
+Priority 2 — Omega-3 fatty acids (reduce neuroinflammation):
+  • Fatty fish 2-3x per week: salmon, mackerel, sardines
+  • Walnuts and flaxseeds daily (plant-based omega-3 ALA)
+  • Consider EPA-dominant omega-3 supplement (1-2g/day)
+
+Priority 3 — Gut-brain axis support (95% of serotonin is gut-produced):
+  • Daily fermented food: yogurt, kefir, kimchi, sauerkraut, or miso
+  • Prebiotic fiber: asparagus, garlic, onions, bananas, oats
+  • Avoid artificial sweeteners (disrupt microbiome)
+
+Priority 4 — Anti-anxiety specific:
+  • Green tea (L-theanine promotes calm alpha brain waves): 2-3 cups/day
+  • Chamomile tea before bed (apigenin binds GABA receptors)
+  • Turmeric/curcumin with black pepper (anti-inflammatory, neuroprotective)
+
+AVOID FOR ANXIETY:
+  • Excessive caffeine (>200mg/day can trigger panic symptoms)
+  • Refined sugar and processed foods (blood sugar spikes worsen anxiety)
+  • Alcohol (disrupts sleep, causes rebound anxiety next day)
+
+EXERCISE PROTOCOL FOR ANXIETY:
+Primary — Zone 2 cardio, 30-45 min, 4-5x/week:
+  • Walking, light jogging, cycling, or swimming at conversational pace
+  • Heart rate 60-70% of maximum
+  • Rhythmic, repetitive motion activates parasympathetic nervous system
+  • Produces sustained GABA increase
+
+Secondary — Yoga, 2-3x/week:
+  • Increases GABA by up to 27% per session
+  • Vagus nerve stimulation through breath work
+  • Recommended: Vinyasa for active calming, Yin yoga for deep relaxation
+  • Yoga Nidra (guided body scan): reduces cortisol by 23%
+
+Tertiary — Nature walks (forest bathing):
+  • 20+ minutes in green spaces reduces cortisol significantly
+  • Combines gentle movement with sensory grounding
+
+CLINICAL RATIONALE:
+Anxiety involves an overactive sympathetic nervous system and HPA axis. The protocol targets calming the nervous system through GABA-boosting exercise (yoga, zone 2 cardio), anti-inflammatory nutrition (omega-3s, fermented foods), and magnesium supplementation for HPA axis regulation. Based on Dr. Ratey's research at Harvard and the ISNPR nutritional psychiatry consensus.
+
+---
+
+PROTOCOL: ADHD — Complete Recovery Protocol
+
+CONDITION: Attention Deficit Hyperactivity Disorder, Executive Dysfunction
+PRIMARY NEUROCHEMICAL TARGETS: Increase dopamine and norepinephrine, support executive function
+AROUSAL LEVEL: Variable (hypo-aroused for inattentive type, hyper-aroused for hyperactive type)
+
+DIET PROTOCOL FOR ADHD:
+Priority 1 — Protein at every meal (dopamine precursor):
+  • Tyrosine-rich foods: eggs, lean poultry, fish, Greek yogurt, legumes
+  • Protein at breakfast is critical — prevents mid-morning focus crash
+  • Target: 20-30g protein per meal
+
+Priority 2 — Complex carbohydrates (sustained energy for focus):
+  • Whole grains: oats, quinoa, brown rice, whole wheat
+  • Sweet potatoes, legumes, lentils
+  • Avoid simple carbs/refined sugar (causes dopamine spike then crash)
+
+Priority 3 — Iron and zinc (dopamine synthesis co-factors):
+  • Iron: red meat, spinach, lentils, fortified cereals
+  • Zinc: oysters, beef, pumpkin seeds, chickpeas
+  • Clinical note: ADHD populations often show lower ferritin and zinc levels
+
+Priority 4 — Omega-3 fatty acids (brain structure and function):
+  • Fatty fish 3x/week minimum
+  • Supplementation: combined EPA+DHA 1-2g/day
+  • Multiple studies show improvement in attention and behavior
+
+AVOID FOR ADHD:
+  • Food colorings and artificial additives (some evidence of worsening symptoms)
+  • High-sugar foods and drinks (dopamine crash worsens inattention)
+  • Excessive simple carbohydrates without protein pairing
+
+EXERCISE PROTOCOL FOR ADHD:
+Primary — Complex motor movements, 30+ min, daily:
+  • Martial arts (karate, taekwondo, jiu-jitsu): requires focus on body position, sequencing, timing
+  • Rock climbing: demands total concentration, no room for mind-wandering
+  • Dance classes: combines rhythm, memorization, and physical coordination
+  • These engage cerebellum and prefrontal cortex simultaneously
+
+Secondary — High-Intensity Interval Training (HIIT), 20-30 min, 3-4x/week:
+  • Produces largest spike in dopamine and norepinephrine
+  • 20-30 minutes provides 2-3 hours of improved focus
+  • Sprint intervals, circuit training, Tabata protocols
+  • Effect mimics low-dose methylphenidate (Ritalin)
+
+Tertiary — Team sports with complex strategy, 2-3x/week:
+  • Basketball, soccer, volleyball
+  • Constant tactical decision-making trains executive function
+  • Social connection reduces ADHD-related isolation
+
+TIMING FOR ADHD:
+  • Exercise before demanding cognitive tasks yields best results
+  • Morning exercise before school/work provides focus for first 2-3 hours
+  • Afternoon exercise (2-4 PM) when body temperature peaks, reaction time is fastest
+  • Even 10-minute movement breaks between focus sessions help
+
+CLINICAL RATIONALE:
+ADHD involves insufficient dopamine and norepinephrine in the prefrontal cortex. Exercise, particularly complex motor movements and HIIT, naturally elevates both neurotransmitters. Dr. Ratey's research at Harvard shows 30 minutes of vigorous exercise produces focus benefits equivalent to a low dose of stimulant medication. High-protein nutrition provides the amino acid precursors (tyrosine, phenylalanine) for dopamine synthesis.
+
+---
+
+PROTOCOL: DEPRESSION — Complete Recovery Protocol
+
+CONDITION: Major Depressive Disorder, Persistent Depressive Disorder, Low Mood
+PRIMARY NEUROCHEMICAL TARGETS: Increase serotonin, rebuild dopamine circuits, support neuroplasticity via BDNF
+AROUSAL LEVEL: Typically low (score 1-4 on arousal scale)
+
+DIET PROTOCOL FOR DEPRESSION:
+Priority 1 — Tryptophan-rich foods (serotonin precursor):
+  • Turkey, chicken, eggs, cheese, tofu, salmon
+  • Pairing tryptophan with complex carbs enhances brain uptake
+  • Bananas, pineapple (contain serotonin directly)
+
+Priority 2 — B vitamins (neurotransmitter synthesis co-factors):
+  • B6: poultry, fish, potatoes, starchy vegetables
+  • B9 (folate): leafy greens, legumes, fortified grains
+  • B12: animal products, fortified plant milks
+  • Clinical note: Methylfolate supplementation may enhance antidepressant response
+
+Priority 3 — Vitamin D (mood regulation):
+  • Sunlight: 15-20 minutes of direct sun exposure daily
+  • Dietary: fatty fish, egg yolks, fortified dairy
+  • Supplementation: 1000-2000 IU daily if deficient
+  • Seasonal Affective Disorder strongly linked to vitamin D deficiency
+
+Priority 4 — Mediterranean diet pattern (gold standard for depression):
+  • The SMILES trial (2017): Mediterranean diet intervention significantly reduced depression (vs. social support control)
+  • Risk of depression is 25-35% lower with traditional diets vs. Western diet
+  • Extra virgin olive oil, nuts, whole grains, legumes, fish, fruits, vegetables
+
+AVOID FOR DEPRESSION:
+  • Alcohol (depressant, disrupts sleep, depletes B vitamins)
+  • Ultra-processed foods (linked to higher depression rates in multiple cohort studies)
+  • Trans fats (promote neuroinflammation)
+  • Social isolation during meals (eating alone worsens depressive symptoms)
+
+EXERCISE PROTOCOL FOR DEPRESSION:
+Primary — Aerobic exercise, 30 min, 3-5x/week:
+  • Running, cycling, dancing, brisk walking
+  • Duke University study: exercise as effective as sertraline (Zoloft) for major depression
+  • Higher frequency = lower relapse rate
+  • Even 10-minute walks provide measurable mood improvement
+
+Secondary — Resistance training, 2-3x/week:
+  • Weightlifting, bodyweight exercises, resistance bands
+  • Progressive overload rebuilds self-efficacy and sense of agency
+  • Hormonal: increases testosterone and growth hormone (both mood-elevating)
+  • 2018 meta-analysis: strength training significantly reduces depression symptoms
+
+Tertiary — Group exercise classes:
+  • Combines physical activity with social connection
+  • Reduces isolation (major driver of depression)
+  • Accountability factor overcomes "can't get started" paralysis
+  • Options: group cycling, running clubs, CrossFit, dance classes
+
+CRITICAL NOTE FOR DEPRESSION:
+  • The biggest barrier is starting — depression kills motivation
+  • Prescription: Start with a 5-minute walk. That's it. Don't set heroic goals.
+  • Pair exercise with a social commitment (walking with a friend, group class)
+  • Track mood before and after exercise to build evidence of its effect
+
+CLINICAL RATIONALE:
+Depression involves deficient monoamine neurotransmitters (serotonin, dopamine, norepinephrine) and reduced BDNF-driven neuroplasticity. Aerobic exercise increases tryptophan transport across the blood-brain barrier (boosting serotonin), upregulates dopamine receptors, and triggers BDNF release for hippocampal neurogenesis. The combination of high-tryptophan nutrition + Mediterranean diet pattern + regular aerobic exercise provides a multi-target intervention grounded in evidence from Harvard, Duke, and the SMILES trial.
+
+---
+
+PROTOCOL: BURNOUT — Complete Recovery Protocol
+
+CONDITION: Occupational Burnout, Chronic Overwhelm, Emotional Exhaustion
+PRIMARY NEUROCHEMICAL TARGETS: Lower chronic cortisol, restore HPA axis sensitivity, rebuild depleted neurotransmitter reserves
+AROUSAL LEVEL: Paradoxical (simultaneously exhausted and wired; score 5-8 on arousal scale)
+
+DIET PROTOCOL FOR BURNOUT:
+Priority 1 — Adaptogenic and cortisol-lowering foods:
+  • Complex carbohydrates at dinner (promotes tryptophan uptake, aids sleep)
+  • Warm soups, stews, and slow-cooked meals (minimal decision energy required)
+  • Anti-inflammatory spices: turmeric, ginger, cinnamon
+
+Priority 2 — Energy-sustaining nutrition (prevent crashes):
+  • Balanced meals every 3-4 hours (blood sugar stability)
+  • Protein + healthy fat + complex carb at each meal
+  • Meal prep on low-energy days to reduce decision fatigue
+
+Priority 3 — Micronutrient replenishment:
+  • Burnout depletes: magnesium, B vitamins, vitamin C, zinc
+  • Emphasize: citrus fruits, bell peppers, leafy greens, nuts
+  • Consider a high-quality multivitamin as insurance
+
+AVOID FOR BURNOUT:
+  • Caffeine after 12 PM (worsens sleep disruption, masks exhaustion)
+  • Comfort eating refined carbs/sugar (temporary relief, long-term crash)
+  • Skipping meals (worsens cortisol dysregulation)
+
+EXERCISE PROTOCOL FOR BURNOUT:
+Primary — Restorative movement, daily:
+  • Gentle yoga, stretching, tai chi (activate parasympathetic system)
+  • Walking in nature (forest bathing reduces cortisol by 12-16%)
+  • Swimming or water-based exercise (proprioceptive calming effect)
+
+Secondary — Moderate aerobic only 2-3x/week:
+  • Key: Do NOT add high-intensity exercise to burnout — it raises cortisol further
+  • Keep heart rate in Zone 2 (60-70% max)
+  • Duration: 20-30 minutes max
+  • The goal is restoration, not additional stress
+
+Tertiary — Creative movement:
+  • Dance, gardening, playing with children/pets
+  • Activities that feel like play, not obligation
+  • Reconnect movement with pleasure rather than performance
+
+CLINICAL RATIONALE:
+Burnout represents HPA axis dysregulation from chronic stress — cortisol is either chronically elevated or has "crashed" (adrenal fatigue pattern). High-intensity exercise during burnout is counterproductive as it further elevates cortisol. The protocol emphasizes gentle parasympathetic activation through restorative movement, nutrient replenishment of stress-depleted micronutrients, and anti-inflammatory nutrition to combat the systemic inflammation caused by chronic stress.

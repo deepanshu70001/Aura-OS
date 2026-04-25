@@ -1,0 +1,14 @@
+# Minimal ML training/runtime deps (no local vector DB build).
+# Install with: pip install -r requirements-ml.txt
+
+numpy==2.1.3
+librosa==0.10.1
+soundfile==0.12.1
+praat-parselmouth==0.4.3
+
+torch==2.11.0
+transformers>=4.44.0
+accelerate>=0.34.0
+
+scikit-learn==1.7.0
+tqdm

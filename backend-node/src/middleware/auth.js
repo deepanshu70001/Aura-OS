@@ -3,7 +3,16 @@ import Guardian from '../models/Guardian.js';
 import Patient from '../models/Patient.js';
 import { AppError } from './errorHandler.js';
 
-const getJwtSecret = () => process.env.JWT_SECRET || 'auraos-dev-secret-change-before-production';
+const DEV_FALLBACK_JWT_SECRET = 'auraos-dev-secret-change-before-production';
+const getJwtSecret = () => {
+  if (process.env.JWT_SECRET) return process.env.JWT_SECRET;
+
+  if (process.env.NODE_ENV === 'production') {
+    throw new AppError('JWT_SECRET must be configured in production.', 500);
+  }
+
+  return DEV_FALLBACK_JWT_SECRET;
+};
 
 export const signAuthToken = ({ id, role }) =>
   jwt.sign({ sub: String(id), role }, getJwtSecret(), { expiresIn: process.env.JWT_EXPIRES_IN || '7d' });

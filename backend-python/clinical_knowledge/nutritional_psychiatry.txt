@@ -1,0 +1,105 @@
+SOURCE: Harvard Health Publishing — "Nutritional Psychiatry: Your Brain on Food" by Dr. Eva Selhub MD
+REFERENCE: https://www.health.harvard.edu/blog/nutritional-psychiatry-your-brain-on-food-201511168626
+DOMAIN: Nutritional Psychiatry — Diet and Mental Health
+
+---
+
+SECTION: The Brain-Food Connection
+
+Your brain is always "on." It takes care of your thoughts and movements, your breathing and heartbeat, your senses — it works hard 24/7, even while you're asleep. This means your brain requires a constant supply of fuel. That "fuel" comes from the foods you eat — and what's in that fuel makes all the difference. What you eat directly affects the structure and function of your brain and, ultimately, your mood.
+
+Like an expensive car, your brain functions best when it gets only premium fuel. Eating high-quality foods that contain lots of vitamins, minerals, and antioxidants nourishes the brain and protects it from oxidative stress — the "waste" (free radicals) produced when the body uses oxygen, which can damage cells.
+
+Diets high in refined sugars are harmful to the brain. In addition to worsening your body's regulation of insulin, they also promote inflammation and oxidative stress. Multiple studies have found a correlation between a diet high in refined sugars and impaired brain function — and even a worsening of symptoms of mood disorders, such as depression.
+
+---
+
+SECTION: Serotonin and the Gut-Brain Axis
+
+Serotonin is a neurotransmitter that helps regulate sleep and appetite, mediate moods, and inhibit pain. About 95% of serotonin is produced in the gastrointestinal tract. The gastrointestinal tract is lined with a hundred million nerve cells (neurons), meaning the inner workings of the digestive system don't just help digest food, but also guide emotions.
+
+The function of these neurons — and the production of neurotransmitters like serotonin — is highly influenced by the billions of "good" bacteria that make up the intestinal microbiome. These bacteria play an essential role in health:
+- They protect the lining of the intestines and ensure they provide a strong barrier against toxins and "bad" bacteria
+- They limit inflammation
+- They improve how well nutrients are absorbed from food
+- They activate neural pathways that travel directly between the gut and the brain
+
+---
+
+SECTION: Traditional Diets vs. Western Diet — Depression Risk
+
+Studies have compared "traditional" diets, like the Mediterranean diet and the traditional Japanese diet, to a typical "Western" diet and have shown that the risk of depression is 25% to 35% lower in those who eat a traditional diet.
+
+Scientists account for this difference because traditional diets tend to be:
+- High in vegetables, fruits, unprocessed grains, and fish and seafood
+- Containing only modest amounts of lean meats and dairy
+- Void of processed and refined foods and sugars
+- Many unprocessed foods are fermented, acting as natural probiotics
+
+The Mediterranean diet is rich in olive oil, nuts, whole grains, legumes, fish, fruits, and vegetables. It is associated with reduced risk of depression, anxiety, and cognitive decline.
+
+---
+
+SECTION: Key Nutrients for Mental Health
+
+MAGNESIUM AND ANXIETY:
+Magnesium is a critical mineral for nervous system regulation. Low magnesium levels are associated with increased anxiety, panic attacks, and heightened stress responses. Magnesium helps regulate the hypothalamic-pituitary-adrenal (HPA) axis, which controls the stress response.
+- Sources: Dark leafy greens (spinach, kale), nuts (almonds, cashews), seeds (pumpkin, flax), dark chocolate, avocados, legumes
+- Recommended: 310-420mg daily for adults
+- Clinical note: Magnesium glycinate is the most bioavailable form for anxiety reduction
+
+OMEGA-3 FATTY ACIDS AND COGNITION:
+Omega-3 fatty acids, particularly EPA and DHA, are essential for brain structure and function. They reduce neuroinflammation, support synaptic plasticity, and are critical for neurotransmitter production.
+- EPA (eicosapentaenoic acid): Primarily anti-inflammatory; shown to reduce symptoms of depression at doses of 1-2g/day
+- DHA (docosahexaenoic acid): Structural component of brain cell membranes; critical for cognitive function and memory
+- Sources: Fatty fish (salmon, mackerel, sardines), walnuts, flaxseeds, chia seeds
+- Clinical note: A 2019 meta-analysis found that omega-3 supplementation significantly reduced anxiety symptoms
+
+B VITAMINS AND MOOD REGULATION:
+B vitamins (particularly B6, B9/folate, B12) are co-factors in the synthesis of serotonin, dopamine, and norepinephrine.
+- Deficiency in B12 and folate is linked to higher rates of depression
+- Sources: Whole grains, eggs, leafy greens, legumes, fortified cereals
+- Clinical note: Methylfolate (active form of B9) may enhance antidepressant response
+
+VITAMIN D AND DEPRESSION:
+Vitamin D receptors are found throughout the brain, particularly in areas related to mood regulation. Low vitamin D levels are associated with increased risk of depression.
+- Sources: Sunlight exposure (15-20 min daily), fatty fish, egg yolks, fortified foods
+- Clinical note: Supplementation of 1000-2000 IU daily may benefit those with deficiency
+
+PROBIOTICS AND THE MICROBIOME:
+Emerging research on "psychobiotics" — specific probiotic strains that benefit mental health:
+- Lactobacillus rhamnosus: Shown to reduce anxiety-like behavior through GABA receptor modulation
+- Bifidobacterium longum: May reduce cortisol levels and self-reported stress
+- Sources: Yogurt, kefir, sauerkraut, kimchi, miso, kombucha, tempeh
+
+---
+
+SECTION: Anti-Inflammatory Foods vs. Anxiety-Inducing Foods
+
+ANTI-INFLAMMATORY (Recommended for anxiety and depression):
+- Fatty fish (salmon, sardines, mackerel) — Omega-3s reduce neuroinflammation
+- Berries (blueberries, strawberries) — Anthocyanins protect against oxidative stress
+- Leafy greens (spinach, kale) — Folate, magnesium, fiber
+- Turmeric/curcumin — Potent anti-inflammatory, crosses blood-brain barrier
+- Extra virgin olive oil — Oleocanthal has ibuprofen-like anti-inflammatory properties
+- Nuts (walnuts, almonds) — Healthy fats, magnesium, vitamin E
+- Fermented foods — Natural probiotics for gut-brain axis health
+- Green tea — L-theanine promotes calm alertness via alpha brain wave production
+- Dark chocolate (70%+ cacao) — Flavonoids, magnesium, mood-enhancing compounds
+
+ANXIETY-INDUCING / PRO-INFLAMMATORY (Reduce or avoid):
+- Refined sugars and high-fructose corn syrup — Spike and crash blood sugar, worsen mood instability
+- Processed meats — High in nitrates and sodium, linked to inflammation
+- Trans fats and hydrogenated oils — Promote systemic inflammation
+- Excessive caffeine — Can trigger panic attacks, worsen generalized anxiety
+- Alcohol — Disrupts sleep architecture, depletes B vitamins, worsens next-day anxiety ("hangxiety")
+- Artificial sweeteners — May alter gut microbiome composition unfavorably
+- Ultra-processed foods — Strip nutrients, add inflammatory additives
+
+---
+
+SECTION: Practical Protocol — "Clean Eating for Mental Health"
+
+Start paying attention to how eating different foods makes you feel — not just in the moment, but the next day. Try eating a "clean" diet for two to three weeks — that means cutting out all processed foods and sugar. See how you feel. Then slowly introduce foods back into your diet, one by one, and see how you feel.
+
+When some people "go clean," they cannot believe how much better they feel both physically and emotionally, and how much worse they then feel when they reintroduce the foods that are known to enhance inflammation.

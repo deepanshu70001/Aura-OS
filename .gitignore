@@ -52,3 +52,13 @@ Thumbs.db
 .idea/
 *.swp
 *.swo
+
+backend-python/models/
+backend-python/datasets/
+backend-python/testing/
+backend-python/training/testing/
+backend-python/training/datasets/
+backend-python/temp_reports/
+ backend-python/training/testing/Audio_Dataset/
+backend-python/logs/
+backend-python.zip
